@@ -6,3 +6,4 @@ All’interno di questa officina c’è un meccanico che a inizio giornata prend
 Quando il meccanico ha controllato tutte le auto termina il programma mostrando a terminale il guadagno giornaliero.
 Viene anche implementata una funzione di log che tiene traccia in un file di testo di tutti i lavori eseguiti sulle auto durante questa giornata.
 Ho deciso di implementare due pattern, uno creazionale(singleton) sulla classe Officina ed uno comportamentale(state pattern) per il meccanico.
+Viene implementata anche la fattura finale in formato XML contenente per ogni auto, marca, modello e conto.
