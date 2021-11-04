@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<ArrayOfFattura xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fattura>
+    <Marca>BMW</Marca>
+    <Modello>SERIE 1</Modello>
+    <ContoCliente>2400</ContoCliente>
+  </Fattura>
+  <Fattura>
+    <Marca>AUDI</Marca>
+    <Modello>Q1</Modello>
+    <ContoCliente>4150</ContoCliente>
+  </Fattura>
+  <Fattura>
+    <Marca>OPEL</Marca>
+    <Modello>TIGRA</Modello>
+    <ContoCliente>2350</ContoCliente>
+  </Fattura>
+  <Fattura>
+    <Marca>MERCEDES</Marca>
+    <Modello>CLASSE A</Modello>
+    <ContoCliente>2600</ContoCliente>
+  </Fattura>
+  <Fattura>
+    <Marca>LANCIA</Marca>
+    <Modello>Y</Modello>
+    <ContoCliente>2800</ContoCliente>
+  </Fattura>
+  <Fattura>
+    <Marca>FORD</Marca>
+    <Modello>FOCUS</Modello>
+    <ContoCliente>3700</ContoCliente>
+  </Fattura>
+  <Fattura>
+    <Marca>MERCEDES</Marca>
+    <Modello>CLASSE C</Modello>
+    <ContoCliente>500</ContoCliente>
+  </Fattura>
+  <Fattura>
+    <Marca>SEAT</Marca>
+    <Modello>LEON</Modello>
+    <ContoCliente>4200</ContoCliente>
+  </Fattura>
+  <Fattura>
+    <Marca>CUPRA</Marca>
+    <Modello>FORMENTOR</Modello>
+    <ContoCliente>4800</ContoCliente>
+  </Fattura>
+  <Fattura>
+    <Marca>BMW</Marca>
+    <Modello>SERIE 4</Modello>
+    <ContoCliente>4300</ContoCliente>
+  </Fattura>
+  <Fattura>
+    <Marca>JEEP</Marca>
+    <Modello>RENEGADE</Modello>
+    <ContoCliente>1200</ContoCliente>
+  </Fattura>
+</ArrayOfFattura>
